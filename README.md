@@ -1,3 +1,8 @@
 # Web Site Responsivo Simples
 
-Um website com menu tela responsivos.
+<p>Um website com menu tela responsivos.</p>
+<br/>
+<p><b>Link: </b></p>
+<p>
+  <img src="./images/WebSite-Image.JPG"/>
+</p>
