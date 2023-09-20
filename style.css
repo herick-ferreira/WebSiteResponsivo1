@@ -9,7 +9,7 @@
 main {
   background-image: url("./images/Fundo_IA.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 
 }
 .container {
